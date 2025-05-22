@@ -1,16 +1,37 @@
-## Hi there 👋
+# ¡Hola! Soy Jeancarlo Pinilla, ¡Bienvenido a mi github!
 
-<!--
-**JeancarloPinilla/JeancarloPinilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">💡 <em>"Auf den Knien"</em></p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧑‍💻 Sobre mí
+
+- 📍 Desde Cucuta, Norte de Santander
+- 🧑‍ Estudiante apasionado de la programación
+- 🧠 Enamorado del lenguaje, tecnología y vida  
+- 🗣️ Idiomas: Español | Inglés (principiante) 
+
+---
+
+### 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FreddyR03&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" alt="GitHub stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FreddyR03&theme=tokyonight" alt="GitHub Streak" />
+  <br /> 
+
+  
+### 📈 Actividad Reciente
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FreddyR03&theme=tokyo-night&area=true" alt="activity graph" />
+</p>
+
+---
+
+### 📫 Contacto
+
+- ✉️ jeancarlopinilla8@gmail.com
+- Discord: Jeancarlo_Pinilla02
