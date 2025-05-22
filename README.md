@@ -9,7 +9,7 @@
 
 - 📍 Desde Cucuta, Norte de Santander
 - 🧑 Estudiante apasionado de la programación
-- 🧠 Enamorado del lenguaje, tecnología y vida  
+- 🧠 Enamorado del lenguaje, deporte,  y vida  
 - 🗣️ Idiomas: Español | Inglés (principiante) |Alemán (principiante)
 
 ---
@@ -21,6 +21,13 @@
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FreddyR03&theme=tokyonight" alt="GitHub Streak" />
   <br /> 
+
+### Mis hobbies
+
+- ⚽ El deporte
+- 📖 Leer
+- 🎸 Practicar guitarra
+- 🎧 Escuchar música
 
   
 ### 📈 Proyectos recientes
@@ -34,4 +41,4 @@
 ### 📫 Hablame, estoy soltero.
 
 - ✉️ jeancarlopinilla8@gmail.com
-- Discord: Jeancarlo0692
+- 👾 Discord: Jeancarlo0692
