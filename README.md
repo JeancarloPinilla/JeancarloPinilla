@@ -17,9 +17,9 @@
 ### En GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FreddyR03&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JeancarPinilla3&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" alt="GitHub stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FreddyR03&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JeancarPinilla&theme=tokyonight" alt="GitHub Streak" />
   <br /> 
 
 ### Mis hobbies
