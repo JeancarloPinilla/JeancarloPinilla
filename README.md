@@ -1,6 +1,6 @@
-# ¡Hola! Soy Jeancarlo Pinilla, ¡Bienvenido a mi github!
+<p align="center">  ¡Hola! Soy Jeancarlo Pinilla, ¡Bienvenido a mi github!
 
-<p align="center">💡 <em>"Auf den Knien"</em></p>
+<p align="center">💡 <em>"_Jeder Tag ist eine Herausforderung, die es zu meistern gilt_"</em></p>
 
 
 ---
@@ -8,9 +8,9 @@
 ### 🧑‍💻 Sobre mí
 
 - 📍 Desde Cucuta, Norte de Santander
-- 🧑‍ Estudiante apasionado de la programación
+- 🧑 Estudiante apasionado de la programación
 - 🧠 Enamorado del lenguaje, tecnología y vida  
-- 🗣️ Idiomas: Español | Inglés (principiante) 
+- 🗣️ Idiomas: Español | Inglés (principiante) |Alemán (principiante)
 
 ---
 
