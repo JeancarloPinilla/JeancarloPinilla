@@ -24,6 +24,18 @@
   
 ---
 
+
+### Mis tecnologías
+
+- 📄 HTML
+- 🎨 CSS
+- ⚡ JavaScript
+- 🐍 PYTHON
+- 🗄️ SQL
+
+  
+---
+
 ### 📫 Contáctame, la única esperanza que necesita tu proyecto, soy yo.
 
 - ✉️ jeancarlopinilla8@gmail.com
