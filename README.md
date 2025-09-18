@@ -24,7 +24,7 @@
   
 ---
 
-### 📫 Hablame, estoy soltero.
+### 📫 Contáctame, la única esperanza que necesita tu proyecto, soy yo.
 
 - ✉️ jeancarlopinilla8@gmail.com
 - 👾 Discord: Jeancarlo0692
