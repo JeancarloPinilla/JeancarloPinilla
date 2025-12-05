@@ -70,7 +70,7 @@ Creo en el equilibrio entre el desarrollo profesional y el crecimiento personal:
 
 - 📧 **Email:** [jeancarlopinilla8@gmail.com](mailto:jeancarlopinilla8@gmail.com)
 - 💬 **Discord:** Jeancarlo0692
-- 🔗 **GitHub:** [@jeancarlo](https://github.com/JeancarloPinilla) _(actualiza con tu usuario)_
+- 🔗 **GitHub:** [@jeancarlo](https://github.com/JeancarloPinilla) 
 
 ---
 
