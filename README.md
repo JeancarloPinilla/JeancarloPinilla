@@ -27,8 +27,8 @@ Explora algunos de mis trabajos desplegados en producción:
 ### [Streaming Service](https://streaming-service-teal.vercel.app/)
 Plataforma de streaming desarrollada con tecnologías web modernas.
 
-### [Proyecto SER](https://proyecto-ser-wuy1.vercel.app/index.html)
-Aplicación web interactiva enfocada en [descripción del proyecto].
+### [Medical Duarte](https://proyecto-ser-wuy1.vercel.app/index.html)
+Aplicación web interactiva enfocada en mostrar los derechos y deberes de usuarios en la clínica.
 
 > 💡 Visita mi perfil para descubrir más proyectos y contribuciones.
 
