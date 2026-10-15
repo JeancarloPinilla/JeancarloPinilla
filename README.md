@@ -1,6 +1,6 @@
-<p align="center">
+
   # Jeancarlo Pinilla | Full Stack Developer
-</p>
+
 
 <p align="center">
   <em>"Jeder Tag ist eine Herausforderung, die es zu meistern gilt"</em>
